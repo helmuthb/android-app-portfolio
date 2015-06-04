@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="ButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="android:backgroundTint">#F08C35</item>
+    </style>
+    <style name="CapstoneButtonStyle" parent="ButtonStyle">
+        <item name="android:backgroundTint">#FF3535</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>
